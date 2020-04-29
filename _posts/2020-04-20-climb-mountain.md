@@ -2,12 +2,15 @@
 layout: post
 title:  "Climb every Mountain"
 author: Ad
-categories: [ Inspiration ]
+categories: [ Inspiration,Mountain,Motivation,Minimilist ]
 image: assets/images/good_mountain.png
 ---
 ### Climb every mountain.
 
 The Good Picture is taken from ectsy.com via pinterest.
+
+<img src="/assets/images/bad_mountain.png" alt="the bad picture" width="500"
+         height="500">
 
 The Bad Picture is drawn with the following tools
 - a) Extra dark Pencil
@@ -15,5 +18,4 @@ The Bad Picture is drawn with the following tools
 - c) Black Sketch Pens. 
 
 
-<img src="/assets/images/bad_mountain.png" alt="the bad picture" width="500"
-         height="500">
+
