@@ -14,5 +14,7 @@ The Bad Picture is drawn with the following tools
 - b) Plastic Crayons
 - c) Black Sketch Pens. 
 
+```html
 <img src="/assets/images/bad_mountain.png" alt="the bad picture" width="500"
          height="500">
+```
