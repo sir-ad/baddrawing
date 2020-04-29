@@ -10,11 +10,11 @@ disqus: 'thegoodbadpicture'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: badd_drawings@gmail.com
+email: thegoodbadpicture@gmail.com
 
 # Authors
 authors:
-  ad:
+  Ad:
     name: Ad
     display_name: Ad
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -61,7 +61,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "disabled"
+authorbox: "enabled"
 
 # Sass
 sass:
