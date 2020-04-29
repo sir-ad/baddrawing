@@ -1,4 +1,4 @@
-# Memoirs Jekyll Theme by WowThemes - Change Log
+# The Good Picture | Bad Picture - Change Log
 
 ## 2020-04-07, v1.0.1
 - responsive tweaks
