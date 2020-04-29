@@ -5,12 +5,14 @@ author: Ad
 categories: [ Inspiration ]
 image: assets/images/good_mountain.png
 ---
-Climb every mountain.
-Slide for the hand drawn bad picture.
+### Climb every mountain.
 
 The Good Picture is taken from ectsy.com via pinterest.
 
 The Bad Picture is drawn with the following tools
-a) Extra dark Pencil
-b) Plastic Crayons
-c) Black Sketch Pens. 
+- a) Extra dark Pencil
+- b) Plastic Crayons
+- c) Black Sketch Pens. 
+
+<img src="/assets/images/bad_mountain.png" alt="the bad picture" width="500"
+         height="500">
