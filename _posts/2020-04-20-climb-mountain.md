@@ -9,8 +9,7 @@ image: assets/images/good_mountain.png
 
 The Good Picture is taken from ectsy.com via pinterest.
 
-<img src="/assets/images/bad_mountain.png" alt="the bad picture" width="500"
-         height="500">
+![image](/assets/images/bad_mountain.png)
 
 The Bad Picture is drawn with the following tools
 - a) Extra dark Pencil
