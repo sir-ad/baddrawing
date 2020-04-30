@@ -3,7 +3,7 @@ layout: post
 title:  "Adventure Awaits"
 author: Ad
 categories: [ Inspiration,Mountain,Motivation,Minimilist ]
-image: assets/images/adventureawwaits bad.png
+image: assets/images/adventureawwaits%20bad.png
 ---
 ### Adventure Awaits.
 
@@ -20,7 +20,7 @@ The Bad Picture is drawn with the following tools
 
 The Good Picture is taken from ectsy.com via pinterest.
 
-![image](/assets/images/adventureawaits good.png)
+<img src="/assets/images/aventureawaits%20good.png" alt="the bad picture" width="500" height="500">
 
 
 
