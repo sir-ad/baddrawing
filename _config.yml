@@ -7,8 +7,8 @@ favicon: 'assets/images/tgbp.png'
 baseurl: 
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'thegoodbadpicture'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
+mailchimp-list: 'https://github.us8.list-manage.com/subscribe/post?u=10d556fa4d8ad935d86e0b531&amp;id=966e3a9d10'
+include: ["_pages"]  
 permalink: /:title/
 email: thegoodbadpicture@gmail.com
 
@@ -18,8 +18,8 @@ authors:
     name: Ad
     display_name: Ad
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: adarsh.agrahari26@gmail.com
-    web: www.github.com/sir-ad
+    email: adarsh@dataninja.in
+    web: ad
     instagram: https://instagram.com/stan.ad/
     description: "Data Scientist"
 # Plugins
