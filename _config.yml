@@ -5,7 +5,7 @@ description: "Hi,I remake drawings from online to offline world with my hands."
 logo: 'assets/images/tgbp.png'
 favicon: 'assets/images/tgbp.png'
 baseurl: 
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-114857332-2'
 disqus: 'thegoodbadpicture'
 mailchimp-list: 'https://github.us8.list-manage.com/subscribe/post?u=10d556fa4d8ad935d86e0b531&amp;id=966e3a9d10'
 include: ["_pages"]  
