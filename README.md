@@ -1,6 +1,6 @@
 # The Good Picture | Bad Picture 
 
-_________________
+*______________*
 
 Buy me a [Coffee](https://www.paypal.me/stanad) ? | Follow me on [Instagram](https://www.instagram.com/stan.ad) !
 
